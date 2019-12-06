@@ -1,0 +1,110 @@
+body {
+    padding-top: 90px;
+    font-family: 'Lato', sans-serif;
+}
+
+footer {
+    background-color: #333;
+    color: #ddd;
+    /* padding: 5px; */
+    text-align: center;
+}
+   
+.navbar {
+    margin-bottom: 0px;
+    padding: 16px 50px;
+    -webkit-transition: all;
+    transition: all .5s;
+}
+
+.navbar img {
+    width: 8%;
+    height:8%;
+}
+
+/* .title-row {
+    position: relative;
+    min-height: 300px;
+} */
+
+.title-image {
+    position: absolute;
+    left: 45%;
+    width: 11%;
+    height:23%;
+    margin-top: 250px;
+    /* transform: translate(-50% -50%);
+    -webkit-transform: translate(-50% -50%); */
+}
+
+.down-button {
+    position: absolute;
+    bottom:40px;
+    width: 100%;
+    text-align: center;
+}
+
+.down-button i {
+    color:white;
+}
+
+.cbp-af-header-shrink {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    opacity: 0.9;
+}
+
+/* .img-responsive {
+    width: 100%;
+    height: auto;
+} */
+
+.fill-screen {
+    background-size: cover;
+    background-position: center;
+}
+
+.fixed-attachment {
+    background-attachment: fixed;
+}
+
+.text-banner {
+    text-align: center;
+    margin: 40px 20px;
+}
+
+.text-banner h1 {
+    font-size: 28px;
+}
+
+.text-banner p {
+    font-size: 20px;
+}
+
+.service-section {
+    margin: 50px;
+    text-align: center;
+}
+
+.service-element {
+    text-align: center;
+}
+
+.service-element img {
+    width: 150px;
+    height: 150px;
+}
+
+.faq-section {
+    margin: 50px;
+    text-align: center;
+}
+
+.contact-section {
+    margin: 50px;
+    text-align: center;
+}
+
+.contact-section h1 {
+    margin-top: 150px;
+}
